@@ -161,3 +161,5 @@ W = 'GATA'
 result = inexactSearch(X,W,1,B,c,o)
 result = getUnique(result)
 printm(m)
+
+#내가 수정
